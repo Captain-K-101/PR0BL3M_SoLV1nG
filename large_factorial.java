@@ -1,6 +1,6 @@
 import java.util.*;
 class GFG {
-      
+//factorial of very large numbrs acan be found in a quick and efficient way.      
 
     static void factorial(int n)
     {
