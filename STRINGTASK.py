@@ -1,4 +1,4 @@
-
+#program to check whether a string contains a vowel or not
 str1=raw_input("enter string:")
 str1=str1.upper()
 str2=""
