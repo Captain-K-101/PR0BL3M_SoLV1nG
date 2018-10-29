@@ -1,3 +1,4 @@
+#just checking if adjacent characters are equal
 import java.util.*;
 public class solution
 {
@@ -7,7 +8,7 @@ public class solution
     int n=Integer.parseInt(s);
     String w=sc.nextLine();
     boolean flag=true;
-    for(int i=0;i<n-1;++i)
+    for(int i=0;i<n-1;i++)
     {
       if(w.charAt(i)!=w.charAt(i+1))
       {
